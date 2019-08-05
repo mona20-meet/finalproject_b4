@@ -1,0 +1,29 @@
+
+.photos{
+	margin: 40px;
+	top: 50px;
+	position: relative;
+  	/*right: 150px;*/
+  	height: 100px;
+
+}
+.photos_2{
+	margin: 40px;
+	top: 50px;
+	position: relative;
+  	/*left: 200px;*/
+}
+
+td {
+	padding: 40px 40px;
+}
+.image_1{
+	width: 600px;
+	height: 350px;
+}
+.image_2{
+	width: 350px;
+	height: 330px;
+	position: relative;
+	right: 380px;
+}
